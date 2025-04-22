@@ -1,6 +1,6 @@
 # Task-2-Data-Visualization-and-Storytelling-Sales-Performance-Overview-Dashboard
 
-# 📊 Superstore Sales Analytics Dashboard (Power BI)
+# 📊 Sales Performance Overview Dashboard (Power BI)
 
 This project provides an interactive and visually rich Power BI dashboard designed to analyze and interpret sales performance, customer behavior, product trends, and regional insights from the classic Superstore dataset.
 
